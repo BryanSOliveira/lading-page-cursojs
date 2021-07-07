@@ -4,3 +4,4 @@ Desenvolvida juntamente com o Curso de JavaScript e TypeScript da *[Udemy](https
 
 
 
+Link: https://ladding-page.netlify.app/
