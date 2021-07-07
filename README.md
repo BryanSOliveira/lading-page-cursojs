@@ -4,5 +4,5 @@ Desenvolvida juntamente com o Curso de JavaScript e TypeScript da *[Udemy](https
 
 
 
-Link: https://lading-page-curso.netlify.app/
+Link: https://landing-page-course.netlify.app/
 
